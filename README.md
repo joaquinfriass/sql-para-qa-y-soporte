@@ -69,8 +69,8 @@ La mayoría de las consultas son SQL estándar y sirven en cualquier motor. Dond
 | Motor | Estado de las consultas |
 | --- | --- |
 | SQLite | ✅ consultas estándar ejecutadas y filas comprobadas (salvo las variantes propias de cada motor) |
-| PostgreSQL | ☐ pendiente de repasar una por una |
-| SQL Server | ☐ pendiente de repasar una por una |
+| PostgreSQL | ✅ ejecutadas sobre `db/tienda_postgres.sql` |
+| SQL Server | ✅ ejecutadas sobre `db/tienda_sqlserver.sql` |
 
 ## Aviso
 
