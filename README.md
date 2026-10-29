@@ -22,7 +22,7 @@ Es un material de estudio: cada consulta indica qué pregunta responde, cuántas
 | [06 · JOINs](guia/06-joins.md) | `INNER`, `LEFT`, `FULL`, datos sin pareja | ✅ |
 | [07 · Subconsultas y CTE](guia/07-subconsultas-y-cte.md) | `IN`, `NOT EXISTS`, `WITH` | ✅ |
 | [08 · Validar datos](guia/08-validar-datos.md) | duplicados, huérfanos y consistencia, con reporte de hallazgos | ✅ |
-| [Equivalencias PostgreSQL ↔ SQL Server](guia/equivalencias-postgresql-sqlserver.md) | diferencias de sintaxis que más molestan | 🚧 borrador |
+| [Equivalencias PostgreSQL ↔ SQL Server](guia/equivalencias-postgresql-sqlserver.md) | diferencias entre las sintaxtis | ✅ |
 
 ## Cómo se lee cada consulta
 
