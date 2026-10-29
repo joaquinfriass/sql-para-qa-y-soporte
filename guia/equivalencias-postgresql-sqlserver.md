@@ -1,7 +1,5 @@
 # Equivalencias PostgreSQL ↔ SQL Server
 
-> 🚧 **Borrador.** Las equivalencias de SQL Server están pendientes de comprobar ejecutándolas una por una.
-
 La base de las consultas (`SELECT`, `WHERE`, `GROUP BY`, `JOIN`) es la misma en los dos motores. Lo que cambia son las funciones y algunos detalles de sintaxis. Esta tabla junta los que más molestan al pasar de uno a otro.
 
 | Tarea | PostgreSQL | SQL Server |
